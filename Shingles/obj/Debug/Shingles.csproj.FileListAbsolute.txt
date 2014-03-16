@@ -1,0 +1,9 @@
+c:\users\stas\documents\visual studio 2013\Projects\Shingles\Shingles\bin\Debug\Shingles.exe.config
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\bin\Debug\Shingles.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\bin\Debug\Shingles.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.csprojResolveAssemblyReference.cache
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.Form1.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.Properties.Resources.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.csproj.GenerateResource.Cache
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\Shingles\Shingles\obj\Debug\Shingles.pdb
